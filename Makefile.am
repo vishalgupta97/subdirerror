@@ -1,0 +1,1 @@
+SUBDIRS = app2 app1 app3
